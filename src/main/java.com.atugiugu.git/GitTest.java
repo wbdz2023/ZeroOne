@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("我不要impart");
         System.out.println("我要开impart");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
